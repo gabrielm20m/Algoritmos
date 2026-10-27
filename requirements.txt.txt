@@ -1,0 +1,4 @@
+matplotlib.pyplot
+nump
+pandas
+scipy.optimize
